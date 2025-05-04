@@ -49,6 +49,11 @@
             bindings = <&bootloader>;
             key-positions = <4 15>;
         };
+
+        twst {
+            bindings = <&bootloader>;
+            key-positions = <5 16>;
+        };
     };
 
     keymap {
